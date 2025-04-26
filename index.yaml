@@ -5,7 +5,7 @@ entries:
     appVersion: 7.0.2
     created: "2025-04-22T11:27:09.571471838+09:30"
     description: A Helm chart for deploying OpenEMR
-    digest: a9fa52eca1223aa8eb218868d76fc9c0f5262227d9927db26b90a5398a3c40bb
+    digest: f6e900140a7c042db9a3ff2014ea7b4d59eac0e49028815aa4bd994363eecd24
     name: openemr
     urls:
     - https://isworo00.github.io/openemr_template/openemr-0.1.0.tgz
