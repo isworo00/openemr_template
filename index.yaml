@@ -3,11 +3,11 @@ entries:
   openemr:
   - apiVersion: v2
     appVersion: 7.0.2
-    created: "2025-04-26T15:51:27.200090434Z"
+    created: "2025-04-22T11:27:09.571471838+09:30"
     description: A Helm chart for deploying OpenEMR
-    digest: 7a7d45587618426165aebf020b78cd086ff40f562765e48f1c97e5d58a1d69c0
+    digest: a9fa52eca1223aa8eb218868d76fc9c0f5262227d9927db26b90a5398a3c40bb
     name: openemr
     urls:
     - https://isworo00.github.io/openemr_template/openemr-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-26T15:51:27.198891589Z"
+generated: "2025-04-22T11:27:09.565861786+09:30"
