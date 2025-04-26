@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: websitevolume
+spec:
+  storageClassName: {{ .Values.storage.website.storageClass }}
+  accessModes: [ReadWriteOnce]
+  resources:
+    requests:
+      storage: {{ .Values.storage.website.size }}
