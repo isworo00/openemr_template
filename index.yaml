@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  openemr:
+  - apiVersion: v2
+    appVersion: 7.0.2
+    created: "2025-04-26T15:51:27.200090434Z"
+    description: A Helm chart for deploying OpenEMR
+    digest: 7a7d45587618426165aebf020b78cd086ff40f562765e48f1c97e5d58a1d69c0
+    name: openemr
+    urls:
+    - https://isworo00.github.io/openemr_template/openemr-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-26T15:51:27.198891589Z"
